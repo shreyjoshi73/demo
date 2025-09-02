@@ -1,4 +1,4 @@
 # demo
 this is my first git repository.
 <br>
-Author - Shrey Joshi
+Author - Shrey Kumar Joshi
